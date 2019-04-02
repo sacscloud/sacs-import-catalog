@@ -1,4 +1,4 @@
-# \<sacs-input-autocomplete\>
+# \<sacs-import-catalog\>
 
 Necesito importar de forma sencilla mis catalogos en cada uno de los modulos para tener la informacion de mi sistema anterior en sacscloud y poder tener todo en un solo espacio.import 
 
