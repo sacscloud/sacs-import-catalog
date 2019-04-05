@@ -12,7 +12,7 @@ Necesito importar de forma sencilla mis catalogos en cada uno de los modulos par
 
 ## Example
 
-imagen o gif de ejemplo
+![imagen](example.jpg)
 
 
 ## PROCESO DE IMPORTACION SACSCLOUD
