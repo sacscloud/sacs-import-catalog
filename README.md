@@ -12,7 +12,13 @@ Necesito importar de forma sencilla mis catalogos en cada uno de los modulos par
 
 ## Example
 
-![imagen](example.jpg)
+### Desktop
+
+![imagen](images/example.jpg)
+
+### Mobile
+
+![imagen](images/mobile.png)
 
 
 ## PROCESO DE IMPORTACION SACSCLOUD
